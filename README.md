@@ -64,16 +64,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minex101&show_icons=true&theme=transparent&hide_border=true&icon_color=E50914&title_color=E50914" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=minex101&layout=compact&theme=transparent&hide_border=true&title_color=E50914" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Minex101&theme=transparent&hide_border=true&ring=E50914&fire=E50914&currStreakLabel=E50914" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minex101&bg_color=00000000&color=E50914&line=E50914&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 <p align="center">
