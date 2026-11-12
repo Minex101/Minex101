@@ -18,10 +18,10 @@
 
 ### 👨‍💻 About me
 
-- 🔭 Working on **data engineering and robotics projects**
-- 🌱 Currently learning **dbt, Power BI and advanced data modelling**
-- 👯 Open to collaborating on **data engineering and robot learning projects**
-- 💬 Ask me about **Databricks, PySpark, Azure, ROS2 and behavioural cloning**
+- 🎓 Studying an **MSc in Robotics & AI at UCL**, after a **First-Class BEng (Hons) in Mechatronics and Robotics** from the University of Leeds
+- 🛠️ Building **end-to-end data pipelines** on Azure and Databricks, and **robot learning systems** in simulation
+- 🌱 Currently deepening my data skills with **dbt, Power BI and advanced data modelling**
+- 💬 Happy to talk **Databricks, PySpark, SQL, ROS2 and behavioural cloning**, or to collaborate on data and robotics projects
 
 ### 🚀 Featured projects
 
@@ -39,6 +39,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logoColor=white)
