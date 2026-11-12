@@ -68,12 +68,6 @@
   <img src="https://raw.githubusercontent.com/Minex101/Minex101/main/profile-3d-contrib/profile-red.svg" alt="3D contribution graph" />
 </p>
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Minex101&theme=transparent&hide_border=true&ring=E50914&fire=E50914&currStreakLabel=E50914" alt="GitHub streak" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minex101/Minex101/output/github-snake-dark.svg" />
