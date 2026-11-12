@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Affan Mohammed</h1>
-<h3 align="center">MSc Robotics & AI @ UCL &nbsp;|&nbsp; Data Engineering · Robotics · Machine Learning</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:831010&height=180&section=header&text=Affan%20Mohammed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20·%20Robotics%20·%20Machine%20Learning&descAlignY=55&descSize=16" alt="Affan Mohammed" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minex101&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Minex101">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=MSc+Robotics+%26+AI+%40+UCL;Building+ELT+pipelines+on+Azure+Databricks;Teaching+robots+with+behavioural+cloning;Learning+dbt+and+Power+BI" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/affan-mohammed-21545927b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:affanmohd8khan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=minex101&label=Profile%20views&color=E50914&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -56,3 +60,29 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minex101&show_icons=true&theme=transparent&hide_border=true&icon_color=E50914&title_color=E50914" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=minex101&layout=compact&theme=transparent&hide_border=true&title_color=E50914" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Minex101&theme=transparent&hide_border=true&ring=E50914&fire=E50914&currStreakLabel=E50914" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minex101&bg_color=00000000&color=E50914&line=E50914&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minex101/Minex101/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Minex101/Minex101/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:831010,100:E50914&height=100&section=footer" alt="" />
+</p>
