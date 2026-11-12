@@ -29,6 +29,7 @@
 | [Netflix Data Engineering Pipeline](https://github.com/Minex101/Netflix-Data-Engineering-Pipeline) | Azure ELT pipeline (ADF, Databricks, Delta Lake) with a Gold star schema and Power BI dashboard |
 | [Flight Booking Data Pipeline](https://github.com/Minex101/Flight-Booking-Data-Engineering-Pipeline) | Databricks lakehouse with Auto Loader, Lakeflow Declarative Pipelines and SCD Type 1 |
 | [PnD Bot](https://github.com/Minex101/Multi-Object-PnD) | Behavioural cloning for mobile pick-and-drop with decoupled MLP policies |
+| [ShelfBot](https://github.com/Minex101/ShelfBot) | Autonomous forklift for warehouse pallet handling: A* planning, pure pursuit and ArUco visual docking in ROS2 and NVIDIA Isaac Sim |
 | [MV6D Franka](https://github.com/Minex101/MV6D_Franka) | Multi-view 6D pose estimation with a Franka Panda in NVIDIA Isaac Sim |
 
 ### 🛠️ Tech stack
