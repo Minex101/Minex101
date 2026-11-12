@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:831010&height=180&section=header&text=Affan%20Mohammed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20·%20Robotics%20·%20Machine%20Learning&descAlignY=55&descSize=16" alt="Affan Mohammed" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:831010&height=180&section=header&text=Affan%20Mohammed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analysis%20%26%20Engineering%20·%20Robotics%20·%20AI%20·%20ML&descAlignY=55&descSize=16" alt="Affan Mohammed" />
 </p>
 
 <p align="center">
