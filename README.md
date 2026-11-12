@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:831010&height=180&section=header&text=Affan%20Mohammed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analysis%20and%20Engineering%20·%20Robotics%20·%20AI%20·%20ML&descAlignY=55&descSize=16" alt="Affan Mohammed" />
 </p>
-
 <p align="center">
   <a href="https://github.com/Minex101">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=MSc+Robotics+%26+AI+%40+UCL;Building+ELT+pipelines+on+Azure+Databricks;Teaching+robots+with+behavioural+cloning;Learning+dbt+and+Power+BI" alt="Typing SVG" />
@@ -67,7 +66,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Minex101/Minex101/main/profile-3d-contrib/profile-red.svg" alt="3D contribution graph" />
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minex101/Minex101/output/github-snake-dark.svg" />
