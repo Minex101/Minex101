@@ -19,7 +19,7 @@ jobs:
           github_user_name: Minex101
           outputs: |
             dist/github-snake.svg?color_snake=#E50914&color_dots=#ebedf0,#F5A3A6,#E8636A,#B20710,#831010
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#E50914&color_dots=#2A2A2A,#5C0A0E,#831010,#B20710,#E50914
+            dist/github-snake-dark.svg?color_snake=#E50914&color_dots=#161b22,#5C0A0E,#831010,#B20710,#E50914
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
