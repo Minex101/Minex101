@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *"   # redraw once a day
   workflow_dispatch:      # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]      # also rebuild whenever the profile is updated
 
 permissions:
   contents: write
